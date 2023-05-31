@@ -22,7 +22,7 @@
     },
     {
         "nombre": "Chincol",
-        "fotos": ["assets/img/silustracion01.png", "imagenes/silustracion02.png", "imagenes/silustracion03.png"],
+        "fotos": ["assets/img/ilustracion01.png", "imagenes/silustracion02.png", "imagenes/silustracion03.png"],
         "soporte": "ilustracion",
         "abstract": "Ilustraciones de diferentes estilos",
         "texto": "El desarrollo de ilustraciones como proyectos personales, vinculados a mis intereses y estilos visuales."
