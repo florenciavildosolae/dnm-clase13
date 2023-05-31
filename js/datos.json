@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "La Trampita",
+        "fotos": ["img/scooter01.png", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "soporte": "industrial",
+        "abstract": "Un prototipo funcional de scooter urbano",
+        "texto": "La Trampita es un scooter urbano, diseñado para personas que necesitan trasladar una mascota. Su apariencia está inspirada en el estilo vintage, justifican su forma y materialidad."
+    },
+    {
+        "nombre": "El valor de tus residuos",
+        "fotos": ["img/kyklos01.png", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
+        "soporte": "industrial",
+        "abstract": "Propuesta de proyecto para la marca Kyklos",
+        "texto": "Kyklos es una Empresa B chilena, cuyo foco está en la Cultura Ambiental, Economía Circular y Gestión de Residuos.     Para enero del 2022, en un contexto académico, se realizó una colaboración con la marca estableciendo el desafío de crear, a través del Diseño Estratégico, una experiencia que visibilizara el trabajo realizado en el Centro Inclusivo de Reciclaje (CIR), un galpón de acopio y revalorización de residuos, donde trabajan personas con discapacidades de diferentes tipos.  El desarrollo del proyecto se dividió en cuatro etapas: investigación de escritorio, salidas a terreno, formulación e ideación & prototipado."
+    },
+    {
+        "nombre": "Valdivia en micro",
+        "fotos": ["img/valdivia01.png", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "soporte": "digital",
+        "abstract": "Diseño de mapa para el transporte público Valdivia, Chile.",
+        "texto": "El funcionamiento del transporte público en Chile..."
+    },
+    {
+        "nombre": "Cuarto título",
+        "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
+        "soporte": "industrial",
+        "abstract": "Nunc efficitur commodo risus, at sagittis dui accumsan",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    }
+]
