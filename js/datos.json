@@ -1,7 +1,7 @@
 [
         {
         "nombre": "Valdivia en micro",
-        "fotos": ["imagenes/valdivia01.png", "imagenes/valdivia01.png", "imagenes/valdivia03.png"],
+        "fotos": ["assets/img/valdivia01.png", "imagenes/valdivia01.png", "imagenes/valdivia03.png"],
         "soporte": "digital",
         "abstract": "Diseño de mapa para el transporte público Valdivia, Chile.",
         "texto": "El funcionamiento del transporte público en Chile..."
